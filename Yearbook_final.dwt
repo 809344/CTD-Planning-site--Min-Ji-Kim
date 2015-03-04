@@ -133,7 +133,7 @@ body {
 <!-- TemplateBeginEditable name="Title " -->
 <div id="apDiv3"></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="content " -->
-<div id="apDiv4"></div>
+<div id="apDiv4"><img src="Screen Shot 2015-01-22 at 9.23.08 AM.png" width="1168" height="711" /></div>
 <!-- TemplateEndEditable -->
 <div id="apDiv5">
   <h3>Contact </h3>
@@ -149,6 +149,6 @@ body {
 <div id="apDiv11">
   <h2><strong> Calender </strong></h2>
 </div>
-<img src="logogo2.gif" width="204" height="140" />
+<img src="final_logo.gif" width="222" height="145" />
 </body>
 </html>
